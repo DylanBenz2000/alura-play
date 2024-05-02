@@ -83,6 +83,69 @@
       "url": "https://www.youtube.com/embed/mwNfWRsDDWE",
       "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
       "id": 12
+    },
+    {
+      "titulo": "Git y GitHub para Principiantes #AluraMás",
+      "descripcion": "50 mil visualizaciones",
+      "url": "https://www.youtube.com/embed/-LmFK6skG7s",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 12
+    },
+    {
+      "titulo": "¿Qué es SQL y NoSQL?",
+      "descripcion": "NaN mil visualizaciones",
+      "url": "https://www.youtube.com/embed/cLLKVd5CNLc",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 13
+    },
+    {
+      "titulo": "¿Qué son las Soft Skills?",
+      "descripcion": "NaN mil visualizaciones",
+      "url": "https://www.youtube.com/embed/vhwspfvI52k",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 14
+    },
+    {
+      "titulo": "¿Por qué utilizar React?",
+      "descripcion": "NaN mil visualizaciones",
+      "url": "https://www.youtube.com/embed/MnBNPA45NW8",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 15
+    },
+    {
+      "titulo": "¿Por qué estudiar Data Science?",
+      "descripcion": "NaN mil visualizaciones",
+      "url": "https://www.youtube.com/embed/7_UXo-aqAeM",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 16
+    },
+    {
+      "titulo": "¿Por Qué Estudiar Programación?",
+      "descripcion": "NaN mil visualizaciones",
+      "url": "https://www.youtube.com/embed/PlaQ913yggM",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 17
+    },
+    {
+      "titulo": "Tus primeros pasos estudiando programación",
+      "descripcion": "NaN mil visualizaciones",
+      "url": "https://www.youtube.com/embed/5K97MfYA1sw",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 18
+    },
+    {
+      "titulo": "¿Qué es la lógica de programación y cómo aplicarla? #AluraMás",
+      "descripcion": "NaN mil visualizaciones",
+      "url": "https://www.youtube.com/embed/3W983Q2NzRI",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 19
+    },
+    {
+      "titulo": "Inmersión Dev: Tus primeros pasos con Javascript",
+      "descripcion": "1 mil visualizaciones",
+      "url": "https://www.youtube.com/embed/ClOl5l-uJ3c",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 20
     }
   ]
 }
